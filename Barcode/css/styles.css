@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;800&display=swap');
+body{
+    margin:0;
+    background: #802dcc;
+    font-family:'Nunito', sans-serif;
+    /*color:#5f697e;*/
+}
+h1{
+    font-size:1.5em;
+    font-weight: 800;
+    color:#fff;
+}
+label{
+    color:#fff;
+}
+input{
+    color:#5f697e;
+    border:none;
+}
+.form-control{
+    padding:20px;
+    border:none;
+}
+.container{
+    max-width:800px;
+    padding:30px;
+}
+.img-resp{
+    width:100%;
+    height: auto;
+}
+.logo{
+    margin: 0 auto;
+    max-width: 200px;
+    margin-bottom:100px;
+}
+.violet{
+    background:#3a036c;
+    border:none;
+}
+.violet:hover{
+    background: #471f6a;
+    transition:0.5 ease-in-out;
+    border:none;
+}
+.btn{
+    border:none;
+}
+.frame_left{
+    width:3px;
+    height:50px;
+    border-right:1px solid #000;
+    border-left:1px solid #000;
+}
+.frame_center{
+    width:3px;
+    height:50px;
+    border-right:1px solid #000;
+    border-left:1px solid #000;
+    margin-left:1px;
+    margin-right:1px;
+}
+
+.frame_right{
+    width:3px;
+    height:50px;
+    border-right:1px solid #000;
+    border-left:1px solid #000;
+}
+.codeBarre{
+    width: 150px;
+    padding: 10px;
+    background: #fff;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+}
+.black{
+    height:40px;
+    background-color: black;
+}
+.white{
+    background-color: white;
+    height:40px;
+}
+.h40{
+    height:50px;
+}
+.chiffre{
+    display:block;
+    text-align:center;
+    mso-ascii-font-family: monospace;
+    font-size:0.5em;
+    color:#000;
+}
+.don_paypal{
+    width:100%;
+    text-align:center;
+    margin-top:100px;
+}
+.copyright{
+    text-align:center;
+    color:#fff;
+}
+.rtdc{
+    width:50px;
+}
